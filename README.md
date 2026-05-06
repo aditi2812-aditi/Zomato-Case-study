@@ -181,19 +181,6 @@ A functional prototype was developed focusing on:
 - Increase in repeat usage
 - Reduction in negative feedback due to expectation mismatch
 
-### Projected Business Impact
-
-Based on user study insights and improved trust signals:
-
-- Expected **10–20% increase in item-level conversion rates**
-- Potential **increase in revenue per item by ~10–20%**
-- Reduction in order dissatisfaction and complaints
-
-> These estimates are directional and based on improved user trust observed during prototype testing.
-> 
-
----
-
 ## Considerations
 
 - Increased information density may affect readability
